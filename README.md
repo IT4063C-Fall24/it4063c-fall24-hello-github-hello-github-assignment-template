@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . How to use git commands
 
 **I struggled with:** (repeat as needed)
-- .
+- .How to use specific git commands
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- .Nothing yet
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20 ] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- .Git docs/lecture videos
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- .  N/A
