@@ -40,4 +40,4 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 - .Git docs/lecture videos
   
 **I received help from the following people:** (repeat as needed)
-- . N/A
+- .  N/A
